@@ -25,21 +25,20 @@
 
 # Tipos de nubes
 
-![](https://noticias.ebiz.pe/wp-content/uploads/2020/12/Banners.png)
-
-
-<center> <h2>Nube privada</h2> </center>
+<h2>Nube privada</h2>
 
 <p> El modelo de nube privada hace referencia a los recursos de computación en nube que se usan exclusivamente en una misma empresa u organización. La nube privada puede almacenarse en el centro de datos interno o un proveedor de servicios puede alojarla en la nube. </p>
 
-<center> <h2>Nube publica</h2> </center>
+<h2>Nube publica</h2>
 
 <p> Servicios informáticos que ofrecen proveedores externos a través de la Internet pública y que están disponibles para todo aquel que desee utilizarlos o comprarlos. Pueden ser gratuitos o venderse a petición, lo que permite a los clientes pagar solo por el uso que hacen de ciclos de CPU, el almacenamiento o el ancho de banda que consumen. </p>
 
-
-<center> <h2>Nube hibrida</h2> </center>
+<h2>Nube hibrida</h2>
 
 <p> Un modelo de computación en nube híbrido combina las nubes públicas y privadas para compartir datos y aplicaciones. Las nubes híbridas conectan la infraestructura y las aplicaciones entre recursos en nube con los recursos existentes que no se encuentran en la nube. Este enfoque le aporta a su empresa más flexibilidad y más opciones de implementación. </p>
+
+![](https://noticias.ebiz.pe/wp-content/uploads/2020/12/Banners.png)
+
 
 # Inteligencia artificial
 
@@ -59,7 +58,7 @@
 
 ![](https://3.bp.blogspot.com/-VxJ-tkaLE7I/XNR-uIqVHfI/AAAAAAAACAA/1uzwJG_EzFsGekvZQEtlAhJnbWUCUxJrwCLcBGAs/s1600/1__HYOZExV1wV2f0OrfZ9YcA.png)
 
-<center> <h1>Ventajas de trabajar en la nobe con azure</h1> </center>
+<h1>Ventajas de trabajar en la nobe con azure</h1>
 
 - **Almacenamiento y backup seguro en la nube**. Con Azure se dispone de un sistema de almacenamiento de datos en la nube que garantiza la privacidad e integridad de la información. Es una herramienta ideal para guardar la información y disponer de copias de seguridad externas a la empresa. En este apartado, debemos precisar que solo se hace backup de maquinas virtuales y SQL en Azure 
 
