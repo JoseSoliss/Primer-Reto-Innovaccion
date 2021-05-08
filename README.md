@@ -25,6 +25,8 @@
 
 # Tipos de nubes
 
+![](https://www.mitecnico.cl/wp-content/uploads/2018/06/nube_animada.gif)
+
 <h2>Nube privada</h2>
 
 <p> El modelo de nube privada hace referencia a los recursos de computación en nube que se usan exclusivamente en una misma empresa u organización. La nube privada puede almacenarse en el centro de datos interno o un proveedor de servicios puede alojarla en la nube. </p>
@@ -75,3 +77,7 @@
 <p> Sistemas de dispositivos físicos que reciben y transfieren datos a través de redes inalámbricas sin la intervención humana. Lo que lo hace posible es la integración de dispositivos informáticos sencillos con sensores en todo tipo de objetos. Por ejemplo, un "termostato inteligente" ("inteligente", por lo general, significa "IoT") recibe datos de la ubicación de su automóvil inteligente mientras conduce, y los utiliza para ajustar la temperatura de su casa antes de que llegue. Esto se logra sin su intervención y genera el resultado es mejor que si tuviera que ajustar la temperatura manualmente antes de salir o al regresar. </p>
 
 ![](https://www.muycanal.com/wp-content/uploads/2020/02/Mercado-IoT-crece-Espa%C3%B1a.jpg)
+
+# Rifatela leo 
+
+![](https://media.tenor.com/images/6a33fb610906ed17013eabedf32aa89a/tenor.gif)
