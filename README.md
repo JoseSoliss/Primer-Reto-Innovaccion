@@ -2,6 +2,6 @@
 
 - José Pablo Peña Solis
 - Christian Leonel Tirado Castolo
+- que pex 
 
-
-## Primer tema
+## Primer tema de los cursos de inovaccion 
